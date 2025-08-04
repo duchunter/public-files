@@ -1,0 +1,39 @@
+{
+  "ethereum": [
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    {
+      "id": "omni-network",
+      "symbol": "OMNI",
+      "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4"
+    },
+    {
+      "id": "agrello",
+      "symbol": "DLT",
+      "address": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f"
+    },
+    {
+      "id": "origin-dollar-governance",
+      "symbol": "OGV",
+      "address": "0x9c354503C38481a7A7a51629142963F98eCC12D0"
+    },
+    {
+      "id": "sonm",
+      "symbol": "SNM",
+      "address": "0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B"
+    },
+    {
+      "id": "zelcash",
+      "symbol": "FLUX",
+      "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495"
+    },
+    {
+      "id": "celo-wormhole",
+      "symbol": "CELO",
+      "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69"
+    }
+  ]
+}
