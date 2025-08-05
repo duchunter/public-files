@@ -35,5 +35,96 @@
       "symbol": "CELO",
       "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69"
     }
+  ],
+  "binance-smart-chain": [
+    {
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    {
+      "id": "0",
+      "symbol": "VET",
+      "address": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888"
+    },
+    {
+      "id": "maker",
+      "symbol": "MKR",
+      "address": "0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350"
+    },
+    {
+      "id": "flow",
+      "symbol": "FLOW",
+      "address": "0xC943c5320B9c18C153d1e2d12cC3074bebfb31A2"
+    },
+    {
+      "id": "befitter",
+      "symbol": "FIU",
+      "address": "0xEF7d50069406A2F5A53806f7250A6c0f17AD9dCD"
+    },
+    {
+      "id": "kryptomon",
+      "symbol": "KMON",
+      "address": "0xc732B6586A93b6B7CF5FeD3470808Bc74998224D"
+    },
+    {
+      "id": "cryptoexpress",
+      "symbol": "XPRESS",
+      "address": "0xaA9826732f3A4973FF8B384B3f4e3c70c2984651"
+    }
+  ],
+  "polygon-pos": [
+    {
+      "id": "bullieverse",
+      "symbol": "BULL",
+      "address": "0x9f95e17b2668AFE01F8fbD157068b0a4405Cc08D"
+    },
+    {
+      "id": "tether",
+      "symbol": "USDT",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+    }
+  ],
+  "arbitrum": [
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    {
+      "id": "arbitrum",
+      "symbol": "ARB",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548"
+    },
+    {
+      "id": "the-graph",
+      "symbol": "GRT",
+      "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7"
+    },
+    {
+      "id": "xai-blockchain",
+      "symbol": "XAI",
+      "address": "0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66"
+    },
+    {
+      "id": "tether",
+      "symbol": "USDT",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    },
+    {
+      "id": "gmx",
+      "symbol": "GMX",
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
+    },
+    {
+      "id": "usd-coin",
+      "symbol": "USDC",
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+    },
+    {
+      "id": "livepeer",
+      "symbol": "LPT",
+      "address": "0x289ba1701C2F088cf0faf8B3705246331cB8A839"
+    }
   ]
 }
