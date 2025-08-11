@@ -190,5 +190,80 @@
       "symbol": "AVAX",
       "address": "0x0000000000000000000000000000000000000000"
     }
+  ],
+  "solana": [
+    {
+      "id": "solana",
+      "symbol": "SOL",
+      "address": "0"
+    }
+  ],
+  "solana-staking": [
+    {
+      "id": "solana",
+      "symbol": "SOL",
+      "address": "0"
+    }
+  ],
+  "tron": [
+    {
+      "id": "tron",
+      "symbol": "TRX",
+      "address": "0"
+    }
+  ],
+  "ton-network": [
+    {
+      "id": "the-open-network",
+      "symbol": "TON",
+      "address": "0:0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "id": "notcoin",
+      "symbol": "NOT",
+      "address": "0:2f956143c461769579baef2e32cc2d7bc18283f40d20bb03e432cd603ac33ffc"
+    }
+  ],
+  "polygon-staking": [
+    {
+      "id": "polygon-ecosystem-token",
+      "symbol": "POL",
+      "address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6"
+    }
+  ],
+  "osmosis": [
+    {
+      "id": "osmosis",
+      "symbol": "OSMO",
+      "address": "uosmo"
+    }
+  ],
+  "osmosis-staking": [
+    {
+      "id": "osmosis",
+      "symbol": "OSMO",
+      "address": "uosmo"
+    }
+  ],
+  "cosmos": [
+    {
+      "id": "cosmos",
+      "symbol": "ATOM",
+      "address": "uatom"
+    }
+  ],
+  "cosmos-staking": [
+    {
+      "id": "cosmos",
+      "symbol": "ATOM",
+      "address": "uatom"
+    }
+  ],
+  "terra": [
+    {
+      "id": "terra-luna-2",
+      "symbol": "LUNA",
+      "address": "uluna"
+    }
   ]
 }
