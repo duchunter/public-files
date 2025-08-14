@@ -265,5 +265,54 @@
       "symbol": "LUNA",
       "address": "uluna"
     }
+  ],
+  "algorand": [
+    {
+      "id": "algorand",
+      "symbol": "ALGO",
+      "address": "0"
+    }
+  ],
+  "cardano": [
+    {
+      "id": "cardano",
+      "symbol": "ADA",
+      "address": "0"
+    }
+  ],
+  "cardano-staking": [
+    {
+      "id": "cardano",
+      "symbol": "ADA",
+      "address": "0"
+    }
+  ],
+  "digitalbits": [
+    {
+      "id": "digitalbits",
+      "symbol": "XDB",
+      "address": "0"
+    }
+  ],
+  "near-protocol": [
+    {
+      "id": "near",
+      "symbol": "NEAR",
+      "address": "0"
+    }
+  ],
+  "ripple": [
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "address": "0"
+    }
+  ],
+  "stellar": [
+    {
+      "id": "stellar",
+      "symbol": "XLM",
+      "address": "0"
+    }
   ]
 }
