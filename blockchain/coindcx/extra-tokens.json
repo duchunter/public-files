@@ -43,11 +43,6 @@
       "address": "0x0000000000000000000000000000000000000000"
     },
     {
-      "id": "0",
-      "symbol": "VET",
-      "address": "0x6FDcdfef7c496407cCb0cEC90f9C5Aaa1Cc8D888"
-    },
-    {
       "id": "maker",
       "symbol": "MKR",
       "address": "0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350"
@@ -312,6 +307,132 @@
     {
       "id": "stellar",
       "symbol": "XLM",
+      "address": "0"
+    }
+  ],
+  "avalanche-staking": [
+    {
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "address": "0"
+    }
+  ],
+  "dogechain": [
+    {
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "address": "0"
+    }
+  ],
+  "ecash": [
+    {
+      "id": "ecash",
+      "symbol": "XEC",
+      "address": "0"
+    }
+  ],
+  "celestia": [
+    {
+      "id": "celestia",
+      "symbol": "TIA",
+      "address": "0"
+    }
+  ],
+  "tezos": [
+    {
+      "id": "tezos",
+      "symbol": "XTZ",
+      "address": "0"
+    }
+  ],
+  "injective": [
+    {
+      "id": "injective-protocol",
+      "symbol": "INJ",
+      "address": "inj"
+    }
+  ],
+  "sei": [
+    {
+      "id": "sei-network",
+      "symbol": "SEI",
+      "address": "usei"
+    }
+  ],
+  "litecoin": [
+    {
+      "id": "litecoin",
+      "symbol": "LTC",
+      "address": "0"
+    }
+  ],
+  "casper": [
+    {
+      "id": "casper-network",
+      "symbol": "CSPR",
+      "address": "0"
+    }
+  ],
+  "bitcoin": [
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "address": "0"
+    }
+  ],
+  "bitcoin-cash": [
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "address": "0"
+    }
+  ],
+  "dash": [
+    {
+      "id": "dash",
+      "symbol": "DASH",
+      "address": "0"
+    }
+  ],
+  "ethereum-staking": [
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "address": "0"
+    }
+  ],
+  "hedera-hashgraph": [
+    {
+      "id": "hedera-hashgraph",
+      "symbol": "HBAR",
+      "address": "0"
+    }
+  ],
+  "polkadot": [
+    {
+      "id": "polkadot",
+      "symbol": "DOT",
+      "address": "0"
+    }
+  ],
+  "kusama": [
+    {
+      "id": "kusama",
+      "symbol": "KSM",
+      "address": "0"
+    }
+  ],
+  "zcash": [
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "address": "0"
+    }
+  ],
+  "thorchain": [
+    {
+      "id": "thorchain",
+      "symbol": "RUNE",
       "address": "0"
     }
   ]
