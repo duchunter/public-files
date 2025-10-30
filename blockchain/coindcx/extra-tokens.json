@@ -435,5 +435,12 @@
       "symbol": "RUNE",
       "address": "0"
     }
+  ],
+  "base": [
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000"
+    }
   ]
 }
